@@ -1,9 +1,9 @@
-## A propos de moi 👋
+## 👋 A propos de moi 
 
 
 Je suis un étudiant en génie informatique à l'Université de Technologie de Compiègne.
 
-## Compétences
+## 🎓 Compétences
 
 Les compétences que j'ai pu développés durant mes études et formations autonomes :
 
@@ -19,7 +19,8 @@ SQL, noSQL
 #### Programmation : 
 
 Python, C, C++, R
-<svg class="octicon octicon-python" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+![Python](https://github.com/github/explore/blob/master/topics/python/python.png?raw=true)
+
 
 #### Systèmes d'exploitation : 
 
