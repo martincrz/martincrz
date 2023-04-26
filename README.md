@@ -20,7 +20,7 @@ SQL, noSQL
 
 Python, C, C++, R
 
-![Python](https://github.com/github/explore/blob/master/topics/python/python.png)
+![Python](https://github.com/github/explore/blob/main/topics/python/python.png?raw=true)
 
 
 #### Systèmes d'exploitation : 
