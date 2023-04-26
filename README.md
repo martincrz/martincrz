@@ -22,7 +22,7 @@ Python, C, C++, R
 
 
 
-<img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="logo" width="50" height="50">
+<img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="logo" width="60" height="60">
 
 
 #### Systèmes d'exploitation : 
