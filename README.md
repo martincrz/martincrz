@@ -17,6 +17,7 @@ HTML, PHP, CSS
 
 SQL, noSQL
 
+postgreSQL, sqlite,
 
 #### Programmation : 
 
@@ -24,6 +25,8 @@ Python, C, C++, R
 
 <img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="logo_python" width="60" height="60"> <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?raw=true" alt="logo_c" width="60" height="60"> <img src="https://github.com/github/explore/blob/main/topics/cpp/cpp.png?raw=true" alt="logo_cpp" width="60" height="60"> 
 
+Bibliothèque : 
+Tkinter, Numpy, pandas, matplotlib, os, collections, 
 
 
 
