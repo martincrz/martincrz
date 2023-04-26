@@ -1,9 +1,9 @@
-### A propos de moi 👋
+## A propos de moi 👋
 
 
 Je suis un étudiant en génie informatique à l'Université de Technologie de Compiègne.
 
-### Compétences
+## Compétences
 
 Les compétences que j'ai pu développés durant mes études et formations autonomes :
 
