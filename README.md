@@ -1,7 +1,5 @@
 ### A propos de moi 👋
 
-<!--
-**martincrz/martincrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Je suis un étudiant en génie informatique à l'Université de Technologie de Compiègne.
 
