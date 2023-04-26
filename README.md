@@ -19,6 +19,7 @@ SQL, noSQL
 #### Programmation : 
 
 Python, C, C++, R
+
 ![Python](https://github.com/github/explore/blob/master/topics/python/python.png?raw=true)
 
 
