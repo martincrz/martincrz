@@ -17,7 +17,7 @@ HTML, PHP, CSS
 
 SQL, noSQL
 
-postgreSQL, sqlite,
+postgreSQL, sqlite, json, mongoDB
 
 #### Programmation : 
 
