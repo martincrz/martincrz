@@ -20,7 +20,7 @@ SQL, noSQL
 
 Python, C, C++, R 
 
-![Python](https://github.com/github/explore/blob/main/topics/python/python.png?raw=true)
+
 
 <img src="https://github.com/github/explore/blob/main/topics/python/python.png?raw=true" alt="logo" width="50" height="50">
 
