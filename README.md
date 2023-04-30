@@ -35,7 +35,7 @@ Tkinter, Numpy, pandas, matplotlib, os, collections, PIL, sqlite3
 
 Linux (bash), Windows
 
-<img src="https://github.com/github/explore/blob/main/topics/linux/linux.png" alt="logo_python" width="60" height="60">
+<img src="https://github.com/github/explore/blob/main/topics/linux/linux.png" alt="logo_linux" width="60" height="60"> <img src="https://github.com/github/explore/blob/main/topics/bash/bash.png" alt="logo_bash" width="60" height="60">
 
 
 
