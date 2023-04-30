@@ -35,6 +35,9 @@ Tkinter, Numpy, pandas, matplotlib, os, collections, PIL, sqlite3
 
 Linux (bash), Windows
 
+<img src="https://github.com/github/explore/blob/main/topics/linux/linux.png" alt="logo_python" width="60" height="60">
+
+
 
 #### Cloud :
 
